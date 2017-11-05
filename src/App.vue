@@ -4,7 +4,7 @@
     <!-- 顶部 Header 区域 -->
     <mt-header fixed title="每日新鲜事"></mt-header>
     <!-- 中间 router-view 区域 -->
-
+    
     <!-- 底部 Tabbar 区域 -->
     <nav class="mui-bar mui-bar-tab">
 			<a class="mui-tab-item mui-active" href="#tabbar">
